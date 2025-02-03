@@ -3,8 +3,6 @@
         <div class="brand">
             <div class="title center-align">
                 <% if (config.subtitle && config.subtitle.length > 0) { %>
-                <!-- <%= config.subtitle.split('<br>')[0] %><br>
-                <%= config.subtitle.split('<br>')[1] %> -->
                 <% var parts = config.subtitle.split('<br>'); %>
                 <% parts.forEach(function(part, index) { %>
                     <%= part %><% if (index < parts.length - 1) { %><br><% } %>
