@@ -22,6 +22,21 @@ if(!site.posts.sorted){
     site.posts.sorted = true;
 }
 
+// posts 对象不能下标获取元素，只能遍历
+page.prev=null;
+page.next=null;
+let last=null,page_index=-2;
+site.posts.forEach((post, index) => {
+    if(post.path===page.path){
+        page_index=index;
+        page.prev=last;
+    }
+    if(index==page_index+1){
+        page.next=post;
+    }
+    last=post;
+});
+// console.log('next:', page.next?page.next.path:'no next', 'prev:', page.prev?page.prev.path:'no prev');
 
 %>
 
