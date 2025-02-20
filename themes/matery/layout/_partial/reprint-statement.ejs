@@ -34,17 +34,34 @@ let url_matcher = 'https?://[-A-Za-z0-9+&@#/%?=~_|!:,.;]+[-A-Za-z0-9+&@#/%=~_|]'
             
             <div class="reprint__author">
                 <span class="reprint-meta" style="font-weight: bold;">
-                    <i class="fa-solid fa-book-open-reader"> 译者: </i>
+                    <i class="fa-solid fa-pencil"> 译者: </i>
                 </span>
                 <span class="reprint-info">
                     <%- page.translator.name || '匿名' %>
                     <% if(page.translator.url) { %>
-                        <a href="<%- page.translator.url %>" rel="external nofollow noreferrer">
+                        <a href="<%- page.translator.url %>" rel="external nofollow noreferrer" target="_blank">
                         <i class="<%- page.translator.icon || theme.reprint.translator_icon %>"></i>
                         </a>
                     <%} %>
                 </span>
             </div>
+
+            <% if(page.reviewer) { %>
+                <div class="reprint__author">
+                    <span class="reprint-meta" style="font-weight: bold;">
+                        <i class="fa-solid fa-ruler"> 校对: </i>
+                    </span>
+                    <span class="reprint-info">
+                        <%- page.reviewer.name || '匿名' %>
+                        <% if(page.reviewer.url) { %>
+                            <a href="<%- page.reviewer.url %>" rel="external nofollow noreferrer" target="_blank">
+                            <i class="<%- page.reviewer.icon || theme.reprint.translator_icon %>"></i>
+                            </a>
+                        <%} %>
+                    </span>
+                </div>
+            <% } %>
+
             <div class="reprint__notice">
                 <span class="reprint-meta" style="font-weight: bold;">
                     <i class="fas fa-copyright">
