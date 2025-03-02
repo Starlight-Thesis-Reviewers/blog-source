@@ -14,9 +14,9 @@ url_title: intro
 categories: § 01 Introduction
 tags: 
  - 解说
- - 毕业论文集
- - 本书的用法
- - 主催致辞
+ - 论文合同
+ - 本书用法
+ - 主办致辞
 ---
 
 ## １．序文
