@@ -14,7 +14,7 @@ reviewer:
   url: https://space.bilibili.com/3546649766922462
 chapter: '05'
 num_in_chap: '01'
-url_title: vocabulary
+url_title: osananajimi-relationship
 categories: § 05 怨恨的Revue 竞演的Revue
 tags:
   - 解释
