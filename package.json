@@ -29,6 +29,6 @@
     "markdown-it-imsize": "^2.0.1"
   },
   "devDependencies": {
-    "eslint": "^9.19.0"
+    "eslint": "^9.24.0"
   }
 }
