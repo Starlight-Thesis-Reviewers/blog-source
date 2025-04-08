@@ -14,19 +14,16 @@ var hashCode = function (str) {
 
 var featureimg = '/medias/featureimages/0.jpg';
 var featureImages = theme.featureImages;
-
-if(!site.posts.sorted){
-    site.posts.sort((p1,p2)=>{
-        Number(p1.chapter+p1.num_in_chap) - Number(p2.chapter+p2.num_in_chap);
-    });
-    site.posts.sorted = true;
-}
+var ps = site.posts.map(p=>p);  // site.posts.sort() does not work
+ps.sort((p1,p2)=>{
+    return Number(p1.chapter+p1.num_in_chap) > Number(p2.chapter+p2.num_in_chap) ? 1:-1;
+});
 
 // posts 对象不能下标获取元素，只能遍历
 page.prev=null;
 page.next=null;
-let last=null,page_index=-2;
-site.posts.forEach((post, index) => {
+let last=null, page_index=-2;
+ps.forEach((post, index) => {
     if(post.path===page.path){
         page_index=index;
         page.prev=last;
