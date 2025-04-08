@@ -8,6 +8,9 @@ author:
 origin_url: https://note.com/starlight_paper/n/n2163b283e8c0
 translator: 
   name: 涩谷观音
+reviewer:
+  name: Toric
+  url: https://space.bilibili.com/3546649766922462
 chapter: '02'
 num_in_chap: '01'
 url_title: a-horrible-movie
