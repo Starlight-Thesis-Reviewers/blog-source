@@ -10,7 +10,7 @@ translator:
   name: 相川りょう
   url: https://space.bilibili.com/34051825
 reviewer:
-  name: Soyuz
+  name: 11A511U
 chapter: '05'
 num_in_chap: '05'
 url_title: what-is-acting
