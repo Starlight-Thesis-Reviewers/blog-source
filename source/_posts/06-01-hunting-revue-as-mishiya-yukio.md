@@ -16,7 +16,6 @@ chapter: '06'
 num_in_chap: '01'
 url_title: hunting-revue-as-mishiya-yukio
 categories: § 06 狩猎的Revue
-原文地址: https://note.com/starlight_paper/n/n2c6629b11099
 tags:
   - 理解
   - 狩猎的Revue
