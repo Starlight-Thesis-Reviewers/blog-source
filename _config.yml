@@ -90,6 +90,7 @@ pagination_dir: page
 archive_generator:
   by_chapter: true
   order_by: 'chapter num_in_chap'
+  per_page: 0  # no paging
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
@@ -107,6 +108,7 @@ theme: matery
 deploy:
   type: git
   repository: git@github.com:Starlight-Thesis-Reviewers/starlight-thesis-reviewers.github.io.git
+  # repository: ubuntu@TencentCloud:~/starlight-thesis/deploy
   branch: main
 
 markdown:
