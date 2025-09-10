@@ -30,21 +30,21 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: .
+        working-directory: ./blog
 
       - name: Install Hexo CLI
         run: npm install -g hexo-cli
-        working-directory: .
+        working-directory: ./blog
 
       - name: Generate static pages
         run: hexo generate
-        working-directory: .
+        working-directory: ./blog
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./blog/public
           external_repository: Starlight-Thesis-Reviewers/starlight-thesis-reviewers.github.io.git
           publish_branch: main # GitHub Pages 分支
 
