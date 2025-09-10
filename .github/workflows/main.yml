@@ -45,6 +45,6 @@ jobs:
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./blog/public
-          external_repository: Starlight-Thesis-Reviewers/starlight-thesis-reviewers.github.io.git
+          external_repository: Starlight-Thesis-Reviewers/starlight-thesis-reviewers.github.io
           publish_branch: main # GitHub Pages 分支
 
