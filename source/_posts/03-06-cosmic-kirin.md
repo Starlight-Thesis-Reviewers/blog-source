@@ -13,7 +13,7 @@ reviewer:
   name: Toric
   url: https://space.bilibili.com/3546649766922462
 chapter: '03'
-num_in_chap: '04'
+num_in_chap: '06'
 url_title: cosmic-kirin
 categories: § 03 动员大会
 tags: 
