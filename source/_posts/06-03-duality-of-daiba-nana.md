@@ -7,7 +7,7 @@ author:
   url: https://x.com/sasarafu17
 origin_url: https://note.com/starlight_paper/n/nc5088bd6aa11
 translator: 
-  name: 道山神连
+  name: 道山神連
   url: https://space.bilibili.com/13024288
 reviewer:
   name: 星河
