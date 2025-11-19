@@ -3,12 +3,12 @@ title: 关于大场奈奈两重性的考察
 img: https://assets.st-note.com/production/uploads/images/107162705/rectangle_large_type_2_3315fe9c7b12a0b90c4b767aedb8414f.jpeg
 date: 2025-11-19
 author: 
-  name: 道山神连
-  url: https://space.bilibili.com/13024288
-origin_url: https://note.com/starlight_paper/n/nc5088bd6aa11
-translator: 
   name: ささらふ
   url: https://x.com/sasarafu17
+origin_url: https://note.com/starlight_paper/n/nc5088bd6aa11
+translator: 
+  name: 道山神连
+  url: https://space.bilibili.com/13024288
 reviewer:
   name: 星河
 chapter: '06'
