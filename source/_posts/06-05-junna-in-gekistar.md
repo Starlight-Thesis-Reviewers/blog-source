@@ -47,9 +47,7 @@ tags:
 
 > <div class="revue-dialogue"><span class="character">星见纯那：</span><span class="line">我现在还是更想学习，从客观的立场上更深刻的学习舞台的知识。有人生而伟大……</span></div>
 > <div class="revue-dialogue"><span class="character">樱木：</span><span class="line">也有人用汗水造就伟大</span></div>
-> <span class="revue-dialogue"><span class="character">星见纯那：</span><span class="line">威廉·莎士比亚 </span></span>
-> 
-> ^[ 这句话出自莎士比亚所作的《第十二夜》第2幕 第5场马伏里奥读信的环节。日文译文是“生まれながらにして偉大な者もいれば、努力して偉大になる者もいる、そして偉大さを押し付けられる者もいる”，英文原文是 "some are born great, some achieve greatness, and some have greatness thrust upon 'em."，中文译文是“有人是生来的大富大贵，有人是挣来的大富大贵，有人是送上门的大富大贵”（方平译本）。作者注，译者补注。]
+> <div class="revue-dialogue"><span class="character">星见纯那：</span><span class="line">威廉·莎士比亚^[这句话出自莎士比亚所作的《第十二夜》第2幕 第5场马伏里奥读信的环节。日文译文是“生まれながらにして偉大な者もいれば、努力して偉大になる者もいる、そして偉大さを押し付けられる者もいる”，英文原文是 "some are born great, some achieve greatness, and some have greatness thrust upon 'em."，中文译文是“有人是生来的大富大贵，有人是挣来的大富大贵，有人是送上门的大富大贵”（方平译本）。作者注，译者补注。]</span></div>
 
 从字面上理解的话，她实际上在表达自己完成在圣翔的学业后，想要“客观地”学习舞台的意愿。也就是说，她认为在圣翔的学习并不是“客观的”。客观的反义词是“主观”，而主观的状态是指“依赖个人特质进行判断的状态”。“依赖”这个词听起来可能不太好，但难道不正是表达了身处事物漩涡中的状态吗？《Revue Starlight》本身就是一个揭露舞台少女们内心、在狭窄的关系中进行内部交流的故事，而表演正是将自己的内心与角色连接起来的、极其主观的行为。
 
@@ -85,7 +83,7 @@ tags:
 
 在剧场版再生产总集篇《少女☆歌剧 Revue Starlight RONDO·RONDO·RONDO》（下称“总集篇”）的终盘部分，描绘了在第 100 届圣翔祭，舞台剧《戏剧 Starlight》（下称《Starlight》）圆满上演的场景。从动员大会上真井雾子的台词“我真的很担心，能不能超越第 100 届的那场 Starlight”可以推测出，99 期生共同认为演出非常精彩，气氛极为热烈。
 
-还需补充一点，星见纯那是顶着父母的反对进入圣翔并坚持在舞台的道路上精进的角色形象^[[角色介绍・《少女歌剧 Revue Starlight》官方主页]( https://Revue Starlight.com/animation/character/?id=junna)・最终阅览： 2022年3月23日。作者注。]。恐怕，在校期间她也未能获得父母的支持，这一点可以从她长假不回老家^[参见 TV 版第七集《大场奈奈》。作者注。]以及 TV 版的 Revue 曲^[参见 Revue 曲《The Star Knows》。作者注。]中推断出来。
+还需补充一点，星见纯那是顶着父母的反对进入圣翔并坚持在舞台的道路上精进的角色形象^[[角色介绍・《少女歌剧 Revue Starlight》官方主页](https://RevueStarlight.com/animation/character/?id=junna)・最终阅览： 2022年3月23日。作者注。]。恐怕，在校期间她也未能获得父母的支持，这一点可以从她长假不回老家^[参见 TV 版第七集《大场奈奈》。作者注。]以及 TV 版的 Revue 曲^[参见 Revue 曲《The Star Knows》。作者注。]中推断出来。
 
 遭到父母反对，或者自己的决心不被支持的状态，（无论意志多么坚强）都会像是受到无谓的惩罚一样，相当痛苦。如果周围的同学都是那些被父母支持、昂首阔步来学校的孩子，那情况会更加痛苦。如果没有可以分享这种不被支持状况的人，就完全是孤独的。
 
