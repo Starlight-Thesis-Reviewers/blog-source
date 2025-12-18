@@ -7,7 +7,7 @@ author:
   url: https://x.com/gyozaumaumauma
 origin_url: https://note.com/starlight_paper/n/n0b85ea19dd98
 translator: 
-  name: Double Rainbow
+  name: 雨霁
   url: https://space.bilibili.com/20596744
 reviewer:
   name: 星河
