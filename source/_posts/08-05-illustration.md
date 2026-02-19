@@ -1,5 +1,5 @@
 ---
-title: 插画投稿（手乗りまじん）
+title: 插画投稿手乗りまじん
 img: https://assets.st-note.com/production/uploads/images/110767648/rectangle_large_type_2_fef4e229a0a24a603efb3beaedf6b3c4.jpeg
 date: 2026-02-19
 author:
