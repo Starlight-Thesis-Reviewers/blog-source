@@ -7,13 +7,13 @@ author:
   url: https://x.com/7chq
 origin_url: https://note.com/starlight_paper/n/ne0312ae7e0a5
 translator: 
+  name: soyuz 
+  url: https://space.bilibili.com/5119935
+reviewer:
   name: KaneGdesu
   url: https://space.bilibili.com/6657672
-reviewer:
-  name: 11A511U
-  url: https://space.bilibili.com/5119935
-chapter: '08'
-num_in_chap: '06'
+chapter: '09'
+num_in_chap: '04'
 url_title: karen-railway-saiseisan
 categories: § 09 最后的台词
 tags:
