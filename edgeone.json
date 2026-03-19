@@ -1,9 +1,9 @@
 {
-    "name": "example-app",
+    "name": "starlight thesis",
     "buildCommand": "npm run build",
     "installCommand": "npm install",
     "outputDirectory": "./public",
-    "nodeVersion": "22.11.0",
+    "nodeVersion": "23.1.0",
     "redirects": [
         {
             "source": "/*",
