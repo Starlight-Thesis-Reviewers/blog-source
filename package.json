@@ -5,14 +5,13 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "deploy": "hexo deploy"
   },
   "hexo": {
-    "version": "7.3.0"
+    "version": "8.1.1"
   },
   "dependencies": {
-    "hexo": "^7.3.0",
     "hexo-archive-bychapter": "^1.0.0",
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-category": "^2.0.0",
@@ -29,6 +28,7 @@
     "markdown-it-imsize": "^2.0.1"
   },
   "devDependencies": {
-    "eslint": "^9.19.0"
+    "eslint": "^9.19.0",
+    "hexo": "^8.1.1"
   }
 }

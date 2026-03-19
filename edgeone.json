@@ -1,0 +1,14 @@
+{
+    "name": "example-app",
+    "buildCommand": "hexo generate",
+    "installCommand": "npm run build",
+    "outputDirectory": "./public",
+    "nodeVersion": "22.11.0",
+    "redirects": [
+        {
+            "source": "/*",
+            "destination": "/404.html",
+            "statusCode": 404
+        }
+    ]
+}
