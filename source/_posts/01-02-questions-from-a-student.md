@@ -1,6 +1,6 @@
 ---
 title: 将表达能力几乎为零的学生在少歌剧场版后产生的疑问整理了一下。
-img: /local-imgs/cover/ch01.png
+img: https://assets.st-note.com/production/uploads/images/105206271/rectangle_large_type_2_c24bac516275729372b20e1e808a1b52.jpeg
 date: 2025-02-03 01:12:58
 author: 
   name: まどれーぬ

@@ -1,6 +1,6 @@
 ---
 title: 更加哇嘎立马斯！论文合同用语集
-img: /local-imgs/cover/ch01.png
+img: https://assets.st-note.com/production/uploads/images/105206271/rectangle_large_type_2_c24bac516275729372b20e1e808a1b52.jpeg
 date: 2025-02-19 23:00:00
 author: 
   name: 论文合同制作委员

@@ -1,6 +1,6 @@
 ---
 title: 列车终将驶向下一个车站 那么宅宅们呢？　～本刊的制作过程和结构～
-img: /local-imgs/cover/ch01.png
+img: https://assets.st-note.com/production/uploads/images/105206271/rectangle_large_type_2_c24bac516275729372b20e1e808a1b52.jpeg
 date: 2025-02-02 16:53:44
 author: 
   name: さぼてんぐ

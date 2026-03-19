@@ -1,5 +1,5 @@
 ---
-title: 可能性的收敛最后的台词解读
+title: 可能性的收敛 / 最后的台词解读
 img: https://assets.st-note.com/production/uploads/images/115968818/rectangle_large_type_2_39f2ec90e5393b130ee73ef7046e7c87.jpeg
 date: 2026-03-19
 author:
