@@ -3,12 +3,5 @@
     "buildCommand": "npm run build",
     "installCommand": "npm install",
     "outputDirectory": "./public",
-    "nodeVersion": "22.17.1",
-    "redirects": [
-        {
-            "source": "/*",
-            "destination": "/404.html",
-            "statusCode": 404
-        }
-    ]
+    "nodeVersion": "22.17.1"
 }
