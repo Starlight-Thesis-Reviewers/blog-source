@@ -1,7 +1,7 @@
 {
     "name": "example-app",
-    "buildCommand": "hexo generate",
-    "installCommand": "npm run build",
+    "buildCommand": "npm run build",
+    "installCommand": "npm install",
     "outputDirectory": "./public",
     "nodeVersion": "22.11.0",
     "redirects": [
