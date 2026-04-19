@@ -1,11 +1,11 @@
 ---
-title: 《少女☆歌剧 Revue Starlight》中红色及其相关内容的考察
+title: 少女歌剧 Revue Starlight中红色及其相关内容的考察
 img: https://assets.st-note.com/production/uploads/images/118627345/rectangle_large_type_2_97aa69ab4c85b05e1727a684b612df04.jpeg
 date: 2026-04-19
 author:
   name: 鳥飼みさご
-  url: 鳥飼みさご
-origin_url: https://note.com/starlight_paper/n/nc9c212853cbe
+  url: https://x.com/misagotojo
+origin_url: url: https://note.com/starlight_paper/n/nc9c212853cbe
 translator:
   name: LChener
   url: https://space.bilibili.com/178163886
@@ -67,5 +67,5 @@ tags:
 
 * 克拉丽莎·海曼 著，道本美穗 译《食物图书馆：番茄的历史》，2019年，原书房，第40-41页。
 * https://www.chugai-pharm.co.jp/ptn/medicine/karada/karada007.html<br/>心脏｜身体与药物的故事｜中外制药 ，最后浏览日期2022年3月21日
-* http://thebiomanual.com/giraffes-adaptations-circulatory-system/<br/>长颈鹿的适应性-循环系统，最后访问日期2022年3月21日^[译者注：已失效。]
+* http://thebiomanual.com/giraffes-adaptations-circulatory-system/<br/>长颈鹿的适应性-循环系统，最后浏览日期2022年3月21日^[译者注：已失效。]
 * https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%89%E3%83%B3%E3%83%8A<br/>曼陀罗-维基百科，最后浏览日期2022年3月21日
