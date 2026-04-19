@@ -1,12 +1,11 @@
 ---
-title: 少女歌剧 Revue Starlight中红色及其相关内容的考察
+title: 《少女☆歌剧 Revue Starlight》中”红色“及其相关内容的考察
 img: https://assets.st-note.com/production/uploads/images/118627345/rectangle_large_type_2_97aa69ab4c85b05e1727a684b612df04.jpeg
-date: 2026-04-19
-author:
+author: 
   name: 鳥飼みさご
   url: https://x.com/misagotojo
-origin_url: url: https://note.com/starlight_paper/n/nc9c212853cbe
-translator:
+origin_url: https://note.com/starlight_paper/n/nc9c212853cbe
+translator: 
   name: LChener
   url: https://space.bilibili.com/178163886
 reviewer:
@@ -15,7 +14,7 @@ chapter: '11'
 num_in_chap: '04'
 url_title: red-in-revuestarlight
 categories: § 11 舞台装置
-tags:
+tags: 
  - 解释·读解
  - TV版
  - 剧场版
@@ -40,7 +39,7 @@ tags:
 
 首先来看一下“罩衣＝心脏”。图示为心脏的简化插图。
 
-![](/local-imgs/11-04/少女歌剧RevueStarlight中红色及其相关内容的考察-心脏.png)
+![[少女歌剧 Revue Starlight中红色及其相关内容的考察-心脏.png]]
 <div style="text-align: center">图（笔者根据中外制药官网的图解制作）</div>
 
 在人体示意图中，通常将富含大量氧气和营养的动脉血用红色表示，而已完成氧气和营养供给、含有大量废物的静脉血则用蓝色表示。也就是说，图中的右心室和右心房为蓝色，左心室和左心房为红色。这与“右侧为蓝、左侧为红”的“罩衣法则”相符；若将“闪耀”理解为“营养”，那么光就是已完成营养供给的“蓝色且位于右侧”，而其余舞台少女则是营养丰富的“红色且位于左侧”。
