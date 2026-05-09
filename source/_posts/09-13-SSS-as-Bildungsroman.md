@@ -2,12 +2,12 @@
 title: 作为成长小说的“Super Star Spectacle”
 img: https://assets.st-note.com/production/uploads/images/115968818/rectangle_large_type_2_39f2ec90e5393b130ee73ef7046e7c87.jpeg
 date: 2026-05-09
-author:
+author: 
   name: 雨野原
   url: https://x.com/lainfield
 origin_url: https://note.com/starlight_paper/n/n056c66d2c1d6
-translator:
-  name: LChener
+translator: 
+  name: LChener 
   url: https://space.bilibili.com/178163886
 reviewer:
   name: 星河
@@ -28,7 +28,6 @@ tags:
  - 塔/东京塔
  - 生/死/再生
 ---
-
 
 ## 序章：经由欧美文学的 Starlight——“The Tragedy of Starlight”（Starlight 的悲剧）
 

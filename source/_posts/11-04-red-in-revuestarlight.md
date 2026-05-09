@@ -1,12 +1,12 @@
 ---
-title: 少女歌剧 Revue Starlight中红色及其相关内容的考察
+title: 《少女☆歌剧 Revue Starlight》中“红色”及其相关内容的考察
 img: https://assets.st-note.com/production/uploads/images/118627345/rectangle_large_type_2_97aa69ab4c85b05e1727a684b612df04.jpeg
 date: 2026-04-19
-author:
+author: 
   name: 鳥飼みさご
   url: https://x.com/misagotojo
-origin_url: url: https://note.com/starlight_paper/n/nc9c212853cbe
-translator:
+origin_url: https://note.com/starlight_paper/n/nc9c212853cbe
+translator: 
   name: LChener
   url: https://space.bilibili.com/178163886
 reviewer:
@@ -15,7 +15,7 @@ chapter: '11'
 num_in_chap: '04'
 url_title: red-in-revuestarlight
 categories: § 11 舞台装置
-tags:
+tags: 
  - 解释·读解
  - TV版
  - 剧场版
