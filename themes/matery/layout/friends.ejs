@@ -56,6 +56,16 @@
         border-radius: 40px;
     }
 
+    .friend-all {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .friend-all .friend-div {
+        margin-left: 0 !important;
+    }
+
     .friend-all .tag-post {
         margin-bottom: 30px;
     }
@@ -260,11 +270,3 @@
         </div>
     </div>
 </main>
-
-<script>
-    $(function () {
-        $('#friends-link').masonry({
-            itemSelector: '.friend-div'
-        });
-    });
-</script>
