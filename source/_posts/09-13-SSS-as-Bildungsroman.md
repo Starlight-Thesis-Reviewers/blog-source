@@ -1,5 +1,5 @@
 ---
-title: 华恋再生产中的铁路提速工程——铁道迷眼中的少女歌剧剧场版
+title: 作为成长小说的“Super Star Spectacle”
 img: https://assets.st-note.com/production/uploads/images/115968818/rectangle_large_type_2_39f2ec90e5393b130ee73ef7046e7c87.jpeg
 date: 2026-05-09
 author: 
