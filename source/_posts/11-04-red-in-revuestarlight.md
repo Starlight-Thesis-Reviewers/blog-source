@@ -1,6 +1,7 @@
 ---
 title: 《少女☆歌剧 Revue Starlight》中“红色”及其相关内容的考察
 img: https://assets.st-note.com/production/uploads/images/118627345/rectangle_large_type_2_97aa69ab4c85b05e1727a684b612df04.jpeg
+date: 2026-04-19
 author: 
   name: 鳥飼みさご
   url: https://x.com/misagotojo
