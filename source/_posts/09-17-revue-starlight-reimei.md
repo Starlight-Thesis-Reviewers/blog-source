@@ -15,6 +15,12 @@ chapter: '09'
 num_in_chap: '17'
 url_title: revue-starlight-reimei
 categories: § 09 最后的台词
+tags: 
+ - 解释·读解 
+ - 感想 
+ - 剧场版
+ - 爱城华恋 
+ - 动画制作
 ---
 
 # 1. 序章 夜的奇迹
