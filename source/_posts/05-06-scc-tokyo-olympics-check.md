@@ -15,6 +15,10 @@ chapter: '05'
 num_in_chap: '06'
 url_title: scc-tokyo-olympics-check
 categories: § 05 怨恨的Revue 竞演的Revue
+tags:
+ - 调查验证
+ - 剧场版
+ - 竞演的Revue
 ---
 
 # 1. 前言 
