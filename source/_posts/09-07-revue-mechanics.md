@@ -14,6 +14,7 @@ reviewer:
 chapter: '09'
 num_in_chap: '07'
 url_title: revue-mechanics
+mathjax: true
 categories: § 09 最后的台词
 tags:
  - 调查验证
