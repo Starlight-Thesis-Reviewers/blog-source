@@ -1,5 +1,5 @@
 ---
-title: 向我说话、向我伸出手的“你”所在之处——在《剧场版 少女☆歌剧 Revue Starlight》中看到的自我形象的死亡与重生
+title: 向我说话、向我伸出手的“你”所在之处——从《剧场版 少女☆歌剧 Revue Starlight》中看自我形象的死亡与重生
 img: https://assets.st-note.com/production/uploads/images/115968818/rectangle_large_type_2_39f2ec90e5393b130ee73ef7046e7c87.jpeg
 date: 2026-09-19
 author: 
