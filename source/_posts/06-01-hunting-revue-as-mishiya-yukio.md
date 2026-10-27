@@ -1,5 +1,5 @@
 ---
-title: 大场奈奈为何没有杀死星见纯那——从狩猎的 revue 看三岛由纪夫的死与爱欲
+title: 大场奈奈为何没有杀死星见纯那——从狩猎的 Revue 看三岛由纪夫的死与爱欲
 img: https://assets.st-note.com/production/uploads/images/107162705/rectangle_large_type_2_3315fe9c7b12a0b90c4b767aedb8414f.jpeg
 date: 2025-07-12
 author: 

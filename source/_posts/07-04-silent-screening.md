@@ -14,7 +14,7 @@ reviewer:
 chapter: '07'
 num_in_chap: '04'
 url_title: silent-screening
-categories: § 07 乐屋
+categories: § 07 后台
 tags:
  - 感想
  - 剧场版

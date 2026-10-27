@@ -14,7 +14,7 @@ reviewer:
 chapter: '10'
 num_in_chap: '02'
 url_title: blackout-and-lightup
-categories: § 10 Wild Screen Baroque
+categories: § 10 狂野银幕巴洛克
 tags:
  - 解释·读解
  - 解析

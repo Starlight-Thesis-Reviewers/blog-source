@@ -14,7 +14,7 @@ reviewer:
 chapter: '07'
 num_in_chap: '03'
 url_title: tsugaguchi-sunsun-theater
-categories: § 07 乐屋
+categories: § 07 后台
 tags:
  - 感想
  - 剧场版

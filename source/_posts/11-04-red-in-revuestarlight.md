@@ -14,7 +14,7 @@ reviewer:
 chapter: '11'
 num_in_chap: '04'
 url_title: red-in-revuestarlight
-categories: § 11 舞台装置
+categories: § 11 舞台装置的母题与演出
 tags: 
  - 解释·读解
  - TV版

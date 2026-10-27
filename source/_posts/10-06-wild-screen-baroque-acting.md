@@ -14,18 +14,18 @@ reviewer:
 chapter: '10'
 num_in_chap: '06'
 url_title: wild-screen-baroque-acting
-categories: § 10 Wild Screen Baroque
+categories: § 10 狂野银幕巴洛克
 tags:
- - 剧场版
- - 怨恨的Revue
- - 最后的台词
- - 演技论
- - 狩猎的Revue
- - 生/死/再生
- - 皆杀的Revue
- - 竞演的Revue
- - 解释·读解
- - 灵魂的Revue
+  - 解释·读解
+  - 剧场版
+  - 皆杀的Revue
+  - 怨恨的Revue
+  - 竞演的Revue
+  - 狩猎的Revue
+  - 灵魂的Revue
+  - 最后的台词
+  - 演技论
+  - 生/死/再生
 ---
 
 

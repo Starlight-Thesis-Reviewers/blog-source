@@ -1,5 +1,5 @@
 ---
-title: 试着用高中物理来推导一下Revue中使用的能量吧！——最后的台词
+title: 试着用高中物理来推导一下 Revue 中使用的能量吧！——最后的台词
 img: https://assets.st-note.com/production/uploads/images/115968818/rectangle_large_type_2_39f2ec90e5393b130ee73ef7046e7c87.jpeg
 date: 2026-08-19
 author:

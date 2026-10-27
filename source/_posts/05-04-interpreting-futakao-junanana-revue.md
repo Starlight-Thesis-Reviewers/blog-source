@@ -1,5 +1,5 @@
 ---
-title: 关于《剧场版 少女☆歌剧 Revue Starlight》的研究——从花叶和蕉纯的Revue中解读舞台少女们究竟在演绎什么又是如何进行演绎的呢？
+title: 关于《剧场版 少女☆歌剧 Revue Starlight》的研究——从花叶和蕉纯的Revue中解读
 img: https://assets.st-note.com/production/uploads/images/107074016/rectangle_large_type_2_31158afd46cb5d5900b2b9c53706edcb.jpeg
 date: 2025-10-22
 author: 

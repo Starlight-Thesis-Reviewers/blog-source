@@ -14,7 +14,7 @@ reviewer:
 chapter: '11'
 num_in_chap: '07'
 url_title: stage-and-whell
-categories: § 11 舞台装置
+categories: § 11 舞台装置的母题与演出
 tags: 
  - 解释·读解
  - 剧场版

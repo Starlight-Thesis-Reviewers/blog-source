@@ -1,5 +1,5 @@
 ---
-title: Starlight的诞生——从哲学与神话学解读少歌剧场版
+title: Starlight 的诞生——用哲学与神话学解读少歌剧场版
 img: https://assets.st-note.com/production/uploads/images/115968818/rectangle_large_type_2_39f2ec90e5393b130ee73ef7046e7c87.jpeg
 date: 2026-07-13
 author:

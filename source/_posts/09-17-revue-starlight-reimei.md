@@ -1,5 +1,5 @@
 ---
-title: Revue Starlight的黎明
+title: Revue Starlight 的黎明
 img: https://assets.st-note.com/production/uploads/images/115968818/rectangle_large_type_2_39f2ec90e5393b130ee73ef7046e7c87.jpeg
 date: 2026-05-19
 author:
