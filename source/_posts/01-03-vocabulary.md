@@ -7,6 +7,7 @@ author:
 origin_url: https://note.com/starlight_paper/n/nb6eb13f552a7
 translator: 
   name: 涩谷观音
+  url: https://space.bilibili.com/12576367
 reviewer:
   name: Toric
   url: https://space.bilibili.com/3546649766922462

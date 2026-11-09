@@ -8,6 +8,7 @@ author:
 origin_url: https://note.com/starlight_paper/n/na83c3368c894
 translator: 
   name: 涩谷观音
+  url: https://space.bilibili.com/12576367
 chapter: '01'
 num_in_chap: '01'
 url_title: intro
